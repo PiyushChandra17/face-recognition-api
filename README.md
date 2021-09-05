@@ -1,4 +1,4 @@
-A Face recognition web-app that will detect faces in your pictures using clarifai API and it is deployed on heroku.
+A Face recognition web-app that will detect faces in your pictures using clarifai API and it is deployed on heroku server.
 
 #Tech-Stack used:
 Front-end: HTML,CSS,JavaScript+React
